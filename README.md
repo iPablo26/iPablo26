@@ -2,8 +2,8 @@
 
 <p align="left">
   <a href="https://ipablo26.ai.studio/"><img src="https://img.shields.io/badge/Portfolio-ipablo26.ai.studio-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Portfolio"/></a>
-  <img src="https://img.shields.io/badge/Google_Developer_Expert-Cloud_%26_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDE Cloud & AI"/>
-  <a href="https://linkedin.com/in/peterokwukogu"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://me.developers.google.com/u/ipablo26"><img src="https://img.shields.io/badge/Google_Developer_Expert-Cloud_%26_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDE Cloud & AI"/></a>
+  <a href="https://www.linkedin.com/in/ipablo26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@ipablo26"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:peter.okwukogu@gmail.com"><img src="https://img.shields.io/badge/Email-peter.okwukogu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/iPablo26"><img src="https://img.shields.io/github/followers/iPablo26?label=Followers&style=flat-square&color=24292e" alt="Followers"/></a>
@@ -20,7 +20,7 @@ I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, and 
 ### 💼 Core Roles & Specializations
 
 - 🎓 **Data Science Instructor at [AltSchool Africa](https://altschoolafrica.com/):** Mentoring, curriculum design, and hands-on instruction in Python, data analysis, and end-to-end machine learning systems.
-- 🌟 **Google Developer Expert (GDE) — Cloud & AI:** Empowering developer ecosystems, architecting scalable GCP infrastructure, and evaluating frontier foundation models.
+- 🌟 **[Google Developer Expert (GDE) — Cloud & AI](https://me.developers.google.com/u/ipablo26):** Empowering developer ecosystems, architecting scalable GCP infrastructure, and evaluating frontier foundation models.
 - 🔬 **Data Science & ML Engineering:** Advanced statistical modeling, time series forecasting, anomaly detection, multimodal extraction, and machine learning lifecycles.
 - ☁️ **Cloud Engineering & Lakehouse Architecture:** Petabyte-scale Apache Iceberg lakehouses, BigQuery BigLake, zero-copy analytics, AlloyDB AI vector search, and serverless compute on GCP.
 - 🛠️ **Data Engineering:** Automated and self-healing pipelines, dbt modeling, SQL transformations, Apache Beam, and governance with Dataplex Knowledge Catalog.
@@ -75,7 +75,8 @@ I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, and 
 ### 🤝 Connect & Collaborate
 
 - 🌐 **Personal Portfolio:** [ipablo26.ai.studio](https://ipablo26.ai.studio/) *(Built with Google AI Studio)*
-- 💼 **LinkedIn:** [linkedin.com/in/peterokwukogu](https://linkedin.com/in/peterokwukogu)
+- 🌟 **Google Developer Profile:** [me.developers.google.com/u/ipablo26](https://me.developers.google.com/u/ipablo26)
+- 💼 **LinkedIn:** [linkedin.com/in/ipablo26](https://www.linkedin.com/in/ipablo26/)
 - 📺 **YouTube Channel:** [youtube.com/@ipablo26](https://www.youtube.com/@ipablo26)
 - 🎙️ **Community Sessions:** Data Science, AI & Cloud Sundays
 - 📬 **Direct Email:** [peter.okwukogu@gmail.com](mailto:peter.okwukogu@gmail.com)
