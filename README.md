@@ -5,7 +5,8 @@
   <a href="https://me.developers.google.com/u/ipablo26"><img src="https://img.shields.io/badge/Google_Developer_Expert-Cloud_%26_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDE Cloud & AI"/></a>
   <a href="https://techequity.company/"><img src="https://img.shields.io/badge/Tech_Equity-Team-0A2540?style=flat-square&logo=target&logoColor=white" alt="Tech Equity"/></a>
   <a href="https://radmodules.dev/?ref=ZF4QXTMCL0MC"><img src="https://img.shields.io/badge/Explore-RAD_Modules-FF5722?style=flat-square&logo=rocket&logoColor=white" alt="Explore RAD"/></a>
-  <a href="https://www.linkedin.com/in/ipablo26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/company/techequitycloud/home/"><img src="https://img.shields.io/badge/Tech_Equity-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Tech Equity LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/ipablo26/"><img src="https://img.shields.io/badge/Personal-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Personal LinkedIn"/></a>
   <a href="https://www.youtube.com/@ipablo26"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:peter.okwukogu@gmail.com"><img src="https://img.shields.io/badge/Email-peter.okwukogu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/iPablo26"><img src="https://img.shields.io/github/followers/iPablo26?label=Followers&style=flat-square&color=24292e" alt="Followers"/></a>
@@ -80,9 +81,9 @@ I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, **Da
 
 - 🌐 **Personal Portfolio:** [ipablo26.ai.studio](https://ipablo26.ai.studio/) *(Built with Google AI Studio)*
 - ⚡ **Explore RAD Modules:** [radmodules.dev](https://radmodules.dev/?ref=ZF4QXTMCL0MC)
-- 🚀 **Tech Equity:** [techequity.company](https://techequity.company/)
+- 🚀 **Tech Equity:** [techequity.company](https://techequity.company/) • [LinkedIn Page](https://www.linkedin.com/company/techequitycloud/home/)
 - 🌟 **Google Developer Profile:** [me.developers.google.com/u/ipablo26](https://me.developers.google.com/u/ipablo26)
-- 💼 **LinkedIn:** [linkedin.com/in/ipablo26](https://www.linkedin.com/in/ipablo26/)
+- 💼 **Personal LinkedIn:** [linkedin.com/in/ipablo26](https://www.linkedin.com/in/ipablo26/)
 - 📺 **YouTube Channel:** [youtube.com/@ipablo26](https://www.youtube.com/@ipablo26)
 - 🎙️ **Community Sessions:** Data Science, AI & Cloud Sundays
 - 📬 **Direct Email:** [peter.okwukogu@gmail.com](mailto:peter.okwukogu@gmail.com)
