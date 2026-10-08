@@ -3,22 +3,26 @@
 <p align="left">
   <a href="https://ipablo26.ai.studio/"><img src="https://img.shields.io/badge/Portfolio-ipablo26.ai.studio-8E75B2?style=flat-square&logo=google-gemini&logoColor=white" alt="Portfolio"/></a>
   <a href="https://me.developers.google.com/u/ipablo26"><img src="https://img.shields.io/badge/Google_Developer_Expert-Cloud_%26_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="GDE Cloud & AI"/></a>
+  <a href="https://techequity.company/"><img src="https://img.shields.io/badge/Tech_Equity-Team-0A2540?style=flat-square&logo=target&logoColor=white" alt="Tech Equity"/></a>
+  <a href="https://radmodules.dev/?ref=ZF4QXTMCL0MC"><img src="https://img.shields.io/badge/Explore-RAD_Modules-FF5722?style=flat-square&logo=rocket&logoColor=white" alt="Explore RAD"/></a>
   <a href="https://www.linkedin.com/in/ipablo26/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@ipablo26"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="mailto:peter.okwukogu@gmail.com"><img src="https://img.shields.io/badge/Email-peter.okwukogu%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/iPablo26"><img src="https://img.shields.io/github/followers/iPablo26?label=Followers&style=flat-square&color=24292e" alt="Followers"/></a>
 </p>
 
-### 🚀 Data Scientist • AI Agent Architect • GDE in Cloud & AI • Instructor at AltSchool Africa
+### 🚀 Data Scientist • AI Agent Architect • GDE in Cloud & AI • Tech Equity • AltSchool Africa
 
-I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, and **Data Science Instructor at AltSchool Africa**. My engineering spans the complete modern spectrum across **Data Science**, **Cloud Engineering**, and **Data Engineering**—specializing in production-grade **Autonomous AI Agents**, **Enterprise Agent Security (Model Armor)**, and **Planet-Scale Lakehouses**.
+I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, **Data Science Instructor at AltSchool Africa**, and part of the engineering team at **[Tech Equity](https://techequity.company/)**. My engineering spans the complete modern spectrum across **Data Science**, **Cloud Engineering**, and **Data Engineering**—specializing in production-grade **Autonomous AI Agents**, **Enterprise Agent Security (Model Armor)**, and **Planet-Scale Lakehouses**.
 
-🌐 **Explore My Portfolio:** Check out my live interactive case studies and projects at **[ipablo26.ai.studio](https://ipablo26.ai.studio/)** *(built with Google AI Studio)*.
+> 🌐 **Personal Portfolio:** Explore my live interactive case studies and projects at **[ipablo26.ai.studio](https://ipablo26.ai.studio/)** *(built with Google AI Studio)*.  
+> ⚡ **Explore RAD (Rapid Agent Deployment):** Accelerate your agent development with modular, composable building blocks—check out **[RAD Modules](https://radmodules.dev/?ref=ZF4QXTMCL0MC)**.
 
 ---
 
 ### 💼 Core Roles & Specializations
 
+- 🚀 **Engineering Team Member at [Tech Equity](https://techequity.company/):** Driving AI and technology innovation, engineering scalable digital solutions and equitable technological ecosystems.
 - 🎓 **Data Science Instructor at [AltSchool Africa](https://altschoolafrica.com/):** Mentoring, curriculum design, and hands-on instruction in Python, data analysis, and end-to-end machine learning systems.
 - 🌟 **[Google Developer Expert (GDE) — Cloud & AI](https://me.developers.google.com/u/ipablo26):** Empowering developer ecosystems, architecting scalable GCP infrastructure, and evaluating frontier foundation models.
 - 🔬 **Data Science & ML Engineering:** Advanced statistical modeling, time series forecasting, anomaly detection, multimodal extraction, and machine learning lifecycles.
@@ -75,6 +79,8 @@ I am a **Data Scientist**, **Google Developer Expert (GDE) in Cloud & AI**, and 
 ### 🤝 Connect & Collaborate
 
 - 🌐 **Personal Portfolio:** [ipablo26.ai.studio](https://ipablo26.ai.studio/) *(Built with Google AI Studio)*
+- ⚡ **Explore RAD Modules:** [radmodules.dev](https://radmodules.dev/?ref=ZF4QXTMCL0MC)
+- 🚀 **Tech Equity:** [techequity.company](https://techequity.company/)
 - 🌟 **Google Developer Profile:** [me.developers.google.com/u/ipablo26](https://me.developers.google.com/u/ipablo26)
 - 💼 **LinkedIn:** [linkedin.com/in/ipablo26](https://www.linkedin.com/in/ipablo26/)
 - 📺 **YouTube Channel:** [youtube.com/@ipablo26](https://www.youtube.com/@ipablo26)
